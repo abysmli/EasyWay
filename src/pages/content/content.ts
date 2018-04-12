@@ -3,9 +3,9 @@ import {
   GoogleMap,
   GoogleMapsEvent,
   GoogleMapOptions,
-  CameraPosition,
-  MarkerOptions,
-  Marker
+  // CameraPosition,
+  // MarkerOptions,
+  // Marker
 } from '@ionic-native/google-maps';
 import { Component } from '@angular/core';
 import { IonicPage, NavController } from 'ionic-angular';
@@ -15,15 +15,14 @@ import { IonicPage, NavController } from 'ionic-angular';
   selector: 'page-content',
   templateUrl: 'content.html'
 })
+
 export class ContentPage {
   map: GoogleMap;
   constructor(public navCtrl: NavController) { }
   ionViewDidLoad() {
-    setTimeout(this.loadMap.bind(this), 1000);
+    this.loadMap();
   }
-
   loadMap() {
-    
     let mapOptions: GoogleMapOptions = {
       camera: {
         target: {

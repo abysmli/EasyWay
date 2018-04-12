@@ -14,18 +14,18 @@
 
   "MAP_TITLE": "Karte",
 
-  "TUTORIAL_SLIDE1_TITLE": "Hallo Ionic Super Starter App",
-  "TUTORIAL_SLIDE1_DESCRIPTION": "Die <b>Ionic Super Starter App</b> ist eine umfangreiche Starter App mit vielen vorgefertigten Seiten und Best Practices.",
+  "TUTORIAL_SLIDE1_TITLE": "Hallo Flexbee",
+  "TUTORIAL_SLIDE1_DESCRIPTION": "Die <b>Flexbee</b> Nur eine Demo der APP, die verwendet wird, um die Komponenten, die verwendet werden können, und die Sprachgewandtheit der APP vorzustellen.",
 
-  "TUTORIAL_SLIDE2_TITLE": "Wie soll man die Super Starter App verwenden",
-  "TUTORIAL_SLIDE2_DESCRIPTION": "Nutze und bearbeite die Funktionen und Seiten die du benötigst und lösche den Rest. Wähle aus einer Vielzahl an Layouts, wie Anmelden, Registrieren, Tabs und einer Tutorial Seite.",
+  "TUTORIAL_SLIDE2_TITLE": "Wie soll man die Flexbee Starter App verwenden",
+  "TUTORIAL_SLIDE2_DESCRIPTION": "Sie können die Kartenansicht von APP verwenden, um den Effekt jeder Funktion zu sehen.",
 
   "TUTORIAL_SLIDE3_TITLE": "Los gehts",
-  "TUTORIAL_SLIDE3_DESCRIPTION": "Du brauchst Hilfe? Sieh dir das README File an um mehr zu erfahren.",
+  "TUTORIAL_SLIDE3_DESCRIPTION": "Brauchen Sie Hilfe? Bitte kontaktieren Sie Li Yuan, WeChat: Abysmli.",
 
   "TUTORIAL_CONTINUE_BUTTON": "Fortfahren",
 
-  "WELCOME_INTRO": "Der Startpunkt für Deine nächste tolle Ionic App",
+  "WELCOME_INTRO": "Abfahrt von deinem Pocket Bike.",
 
   "SETTINGS_TITLE": "Einstellungen",
   "SETTINGS_OPTION1": "Option 1",
