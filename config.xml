@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="io.ionic.starter" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>EasyWay</name>
-    <description>An awesome Ionic/Cordova app.</description>
-    <author email="hi@ionicframework" href="http://ionicframework.com/">Ionic Framework Team</author>
+    <description>Flexbeee app.</description>
+    <author email="abysmli@gmail.com" href="http://fertig-gmbh.com/">MongoX Team</author>
     <content src="index.html" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
@@ -86,4 +86,5 @@
         <variable name="API_KEY_FOR_IOS" value="AIzaSyCsehGCCQUO-gZTKl3APQadHCeEvuPDxnw" />
     </plugin>
     <engine name="ios" spec="~4.0.1" />
+    <engine name="android" spec="7.0.0" />
 </widget>
